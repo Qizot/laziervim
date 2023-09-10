@@ -11,6 +11,15 @@ return {
     adapters = {
       "nvim-neotest/neotest",
     },
+    keys = {
+      { "<leader>nt", "<cmd> lua require('neotest').run.run()<CR>", desc = "Run nearest test" },
+      {
+        "<leader>nf",
+        "<cmd> lua require('neotest').run.run(vim.fn.expand('%'))<CR>",
+        desc = "Run tests for current file",
+      },
+      { "<leader>nu", "<cmd> ElixirRunCurrentLineTest<CR>", desc = "Run elixir test under cursor" },
+    },
     config = function()
       require("neotest").setup({
         adapters = {

@@ -16,3 +16,9 @@ local function map(mode, lhs, rhs, opts)
 end
 
 map("n", "<leader>fm", "<cmd>lua vim.lsp.buf.format { async = true }<cr>", { desc = "Format code" })
+map(
+  "n",
+  "<leader>F",
+  "<cmd>lua vim.diagnostic.open_float { border = 'rounded' }<cr>",
+  { desc = "Floating diagnostics" }
+)
