@@ -1,7 +1,11 @@
 return {
   {
     "nvim-tree/nvim-tree.lua",
-    opts = {}, -- passed into config()
+    opts = {
+      view = {
+        width = {},
+      },
+    }, -- passed into config()
     config = function(_, opts)
       require("nvim-tree").setup(opts)
       -- other code you want to run with setting up nvim-tree

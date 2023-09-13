@@ -5,6 +5,7 @@ return {
       require("telescope").load_extension("project")
     end,
     keys = {
+      { "<leadersw", false },
       { "<leader>ff", "<cmd> Telescope find_files <CR>", desc = "  find files" },
       { "<C-p>", "<cmd> Telescope find_files <CR>", desc = "  find files" },
       {
