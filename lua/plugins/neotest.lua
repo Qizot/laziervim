@@ -7,6 +7,7 @@ return {
     "nvim-neotest/neotest",
     dependencies = {
       "jfpedroza/neotest-elixir",
+      "nvim-neotest/neotest-go",
     },
     adapters = {
       "nvim-neotest/neotest",
@@ -24,6 +25,7 @@ return {
       require("neotest").setup({
         adapters = {
           require("neotest-elixir"),
+          require("neotest-go"),
         },
         consumers = {
           overseer = require("neotest.consumers.overseer"),
