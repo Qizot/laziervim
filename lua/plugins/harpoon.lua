@@ -1,6 +1,7 @@
 return {
   {
     "ThePrimeagen/harpoon",
+    branch = "harpoon2",
     keys = {
       { "<leader>ha", "<cmd> lua require('harpoon.mark').add_file()<CR>", desc = "Harpoon add file" },
       { "<leader>hh", "<cmd> lua require('harpoon.ui').toggle_quick_menu()<CR>", desc = "Harpoon menu" },

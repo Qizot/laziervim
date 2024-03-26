@@ -1,0 +1,2007 @@
+{
+  "independentSegments" : true,
+  "playlistKind" : "multivariant",
+  "mimeType" : "application\/vnd.apple.mpegurl",
+  "dataID" : 0,
+  "messages" : [
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorDomain" : "CoreMediaErrorDomain",
+      "errorRequirementLevel" : 2,
+      "errorParserLine" : "#EXT-X-STREAM-INF:NAME=\"1080p60\",BANDWIDTH=4676087,CODECS=\"avc3.64002a,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=60.0"
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorDomain" : "CoreMediaErrorDomain",
+      "errorRequirementLevel" : 2,
+      "errorParserLine" : "#EXT-X-STREAM-INF:NAME=\"720p60\",BANDWIDTH=3479680,CODECS=\"avc3.64002a,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=60.0"
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorDomain" : "CoreMediaErrorDomain",
+      "errorRequirementLevel" : 2,
+      "errorParserLine" : "#EXT-X-STREAM-INF:NAME=\"480p30\",BANDWIDTH=1560406,CODECS=\"avc3.64002a,mp4a.40.2\",RESOLUTION=852x480,FRAME-RATE=30.0"
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorDomain" : "CoreMediaErrorDomain",
+      "errorRequirementLevel" : 2,
+      "errorParserLine" : "#EXT-X-STREAM-INF:NAME=\"360p30\",BANDWIDTH=741320,CODECS=\"avc3.64002a,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=30.0"
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorDomain" : "CoreMediaErrorDomain",
+      "errorRequirementLevel" : 2,
+      "errorParserLine" : "#EXT-X-STREAM-INF:NAME=\"160p30\",BANDWIDTH=528803,CODECS=\"avc3.64002a,mp4a.40.2\",RESOLUTION=284x160,FRAME-RATE=30.0"
+    }
+  ],
+  "gzipEncoded" : false,
+  "validatorTimestamp" : "2024-01-04T13:52:47.972+01:00",
+  "sslHosts" : {
+    "https:\/\/globetrotter-vst-staging.edgecompute.app" : {
+      "sslNegotiatedProtocolVersion" : 8,
+      "sslNegotiatedCipher" : 49199,
+      "sslRSAKeySizeInBits" : 2048
+    },
+    "https:\/\/d1sedebpds5xep.cloudfront.net" : {
+      "sslNegotiatedProtocolVersion" : 8,
+      "sslNegotiatedCipher" : 49199,
+      "sslRSAKeySizeInBits" : 2048
+    }
+  },
+  "sslContentDeliveredSecurely" : true,
+  "url" : "https:\/\/globetrotter-vst-staging.edgecompute.app\/v1\/live\/e01cbcef-3ee0-4569-8f04-0502a06249d7.m3u8?cdn=cf",
+  "validatorVersion" : "1.17 (593.5-220531)",
+  "variants" : [
+    {
+      "maxFrameRate" : 30,
+      "videoRangeKey" : "Unknown",
+      "mimeType" : "application\/vnd.apple.mpegurl",
+      "processedSegmentsCount" : 13,
+      "url" : "https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8?dc=euw1",
+      "hasDiscSequenceTag" : true,
+      "meanSegmentCount" : 3,
+      "playlistSupportBlockingReload" : true,
+      "measuredMeanBitrate" : 348333.52079153922,
+      "messages" : [
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8"
+        },
+        {
+          "errorComment" : "PART-HOLD-BACK SHOULD be at least three times the Part Target Duration",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50102,
+          "errorRequirementLevel" : 2,
+          "errorDetail" : "Part hold back: 2.400000, Part target: 1.101000"
+        }
+      ],
+      "parsedSegmentsCount" : 5,
+      "playlistPartTargetDuration" : 1.101,
+      "fetchCount" : 3,
+      "hasEndTag" : false,
+      "playlistPartHoldBackDuration" : 2.3999999999999999,
+      "playlistCodecs" : "avc3.64002a,mp4a.40.2",
+      "playlistResolutionHeight" : 160,
+      "meanTotalDuration" : 5.9897777763333329,
+      "measuredMaxBitrate" : 402566.80857916031,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupIndex" : 1,
+        "playlistGroupID" : "AUDIO",
+        "renditions" : [
+          {
+            "persistentID" : 1
+          }
+        ]
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupIndex" : 2,
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 528803,
+      "sslContentDeliveredSecurely" : true,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "mediaSequence" : 175,
+              "segmentDurationTag" : 1.969833333,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 19,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24Yrw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 350.03333333333336,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.97083333299999997,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 20,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24Yrw==.m4s?dc=euw1&b=39419",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.000944041147172,
+                  "startTime" : 351.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 17,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24Yrw==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:38.745+01:00",
+              "videoFrameRate" : 29.016857979924115,
+              "startTime" : 350.03333333333336,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 176,
+              "segmentDurationTag" : 2.0386666660000001,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 22,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24YsA==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 352,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 1.0391666660000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 23,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24YsA==.m4s?dc=euw1&b=57124",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.063386944181644,
+                  "startTime" : 352.96669921875002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 21,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24YsA==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:40.694+01:00",
+              "videoFrameRate" : 29.048069321511058,
+              "startTime" : 352,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 177,
+              "segmentDurationTag" : 1.9583333329999999,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 25,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24YsQ==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 354.03333333333336,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.95933333300000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 26,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24YsQ==.m4s?dc=euw1&b=59875",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.000944041147172,
+                  "startTime" : 355.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 24,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24YsQ==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:42.723+01:00",
+              "videoFrameRate" : 29.016857979924115,
+              "startTime" : 354.03333333333336,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 178,
+              "segmentDurationTag" : 2.0386666660000001,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 75,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24Ysg==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 356,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 1.0391666660000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 77,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24Ysg==.m4s?dc=euw1&b=43690",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.063386944181644,
+                  "startTime" : 356.96669921875002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 74,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24Ysg==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:44.709+01:00",
+              "videoFrameRate" : 29.048069321511058,
+              "startTime" : 356,
+              "discontinuityDomain" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "dataID" : 78,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 179,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 79,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMGNtc24Ysw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 358.03333333333336,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "segmentDateStamp" : "2024-01-04T13:52:46.743+01:00",
+              "processed" : false,
+              "segmentDurationTag" : 0,
+              "mediaSequence" : 179,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 402566.80857916031,
+            "measuredMeanBitrate" : 348333.52079153922,
+            "measuredSegments" : 4
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 0.031426968052735441,
+              "trackId" : 1,
+              "trackVideoWidth" : 284,
+              "trackVideoLevel" : 42,
+              "trackVideoHeight" : 160,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 1.9888888888888889,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 100,
+              "trackMediaSubType" : "avc3"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 44100,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistTargetDuration" : 3,
+      "playlistResolutionWidth" : 284,
+      "gzipEncoded" : false,
+      "dataID" : 5
+    },
+    {
+      "maxFrameRate" : 60,
+      "videoRangeKey" : "Unknown",
+      "mimeType" : "application\/vnd.apple.mpegurl",
+      "processedSegmentsCount" : 13,
+      "url" : "https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8?dc=euw1",
+      "hasDiscSequenceTag" : true,
+      "meanSegmentCount" : 3,
+      "playlistSupportBlockingReload" : true,
+      "measuredMeanBitrate" : 4174725.8759602774,
+      "messages" : [
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "PART-HOLD-BACK SHOULD be at least three times the Part Target Duration",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50102,
+          "errorRequirementLevel" : 2,
+          "errorDetail" : "Part hold back: 2.400000, Part target: 1.101000"
+        }
+      ],
+      "parsedSegmentsCount" : 5,
+      "playlistPartTargetDuration" : 1.101,
+      "fetchCount" : 3,
+      "hasEndTag" : false,
+      "playlistPartHoldBackDuration" : 2.3999999999999999,
+      "playlistCodecs" : "avc3.64002a,mp4a.40.2",
+      "playlistResolutionHeight" : 1080,
+      "meanTotalDuration" : 6.0058333333333325,
+      "measuredMaxBitrate" : 4187898.8877654197,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupIndex" : 1,
+        "playlistGroupID" : "AUDIO",
+        "renditions" : [
+          {
+            "persistentID" : 1
+          }
+        ]
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupIndex" : 2,
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 4676087,
+      "sslContentDeliveredSecurely" : true,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "mediaSequence" : 175,
+              "segmentDurationTag" : 1.99,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 8,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24Yrw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 350.04902343750001,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.997503360860378,
+                  "startTime" : 350.01601562500002,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.99099999999999999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 9,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24Yrw==.m4s?dc=euw1&b=573688",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 351.03203124999999,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.942439024390247,
+                  "startTime" : 351.01601562500002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 6,
+              "videoStartsWithIDR" : true,
+              "segmentByteRangeLength" : 0,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24Yrw==.m4s?dc=euw1",
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "presentationTime" : 350.04902343750001,
+              "audioStartsWithIPF" : true,
+              "format" : "fragmentedMP4",
+              "videoFrameRate" : 58.970189701897013,
+              "segmentDateStamp" : "2024-01-04T13:52:38.143+01:00",
+              "startTime" : 350.01601562500002,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 176,
+              "segmentDurationTag" : 2.0185,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 11,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24YsA==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 352.03199869791666,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.997503360860378,
+                  "startTime" : 351.99899088541667,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 1.0195000000000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 12,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24YsA==.m4s?dc=euw1&b=633632",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 353.01500651041664,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.995088779750667,
+                  "startTime" : 352.99899088541667,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 10,
+              "videoStartsWithIDR" : true,
+              "segmentByteRangeLength" : 0,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24YsA==.m4s?dc=euw1",
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "presentationTime" : 352.03199869791666,
+              "audioStartsWithIPF" : true,
+              "format" : "fragmentedMP4",
+              "videoFrameRate" : 58.99628606799353,
+              "segmentDateStamp" : "2024-01-04T13:52:40.136+01:00",
+              "startTime" : 351.99899088541667,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 177,
+              "segmentDurationTag" : 1.978,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 14,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24YsQ==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 354.04902343750001,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.997503360860378,
+                  "startTime" : 354.01601562500002,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.97899999999999998,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 15,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24YsQ==.m4s?dc=euw1&b=522116",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 355.03203124999999,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.942439024390247,
+                  "startTime" : 355.01601562500002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 13,
+              "videoStartsWithIDR" : true,
+              "segmentByteRangeLength" : 0,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24YsQ==.m4s?dc=euw1",
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "presentationTime" : 354.04902343750001,
+              "audioStartsWithIPF" : true,
+              "format" : "fragmentedMP4",
+              "videoFrameRate" : 58.970189701897013,
+              "segmentDateStamp" : "2024-01-04T13:52:42.155+01:00",
+              "startTime" : 354.01601562500002,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 178,
+              "segmentDurationTag" : 2.0190000000000001,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 68,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24Ysg==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 356.03199869791666,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.997503360860378,
+                  "startTime" : 355.99899088541667,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 1.0195000000000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 69,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24Ysg==.m4s?dc=euw1&b=522173",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 357.01500651041664,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.995088779750667,
+                  "startTime" : 356.99899088541667,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 67,
+              "videoStartsWithIDR" : true,
+              "segmentByteRangeLength" : 0,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24Ysg==.m4s?dc=euw1",
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "presentationTime" : 356.03199869791666,
+              "audioStartsWithIPF" : true,
+              "format" : "fragmentedMP4",
+              "videoFrameRate" : 58.99628606799353,
+              "segmentDateStamp" : "2024-01-04T13:52:44.138+01:00",
+              "startTime" : 355.99899088541667,
+              "discontinuityDomain" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "dataID" : 81,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 179,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 82,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZWNtc24Ysw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "presentationTime" : 358.04902343750001,
+                  "audioStartsWithIPF" : true,
+                  "format" : "fragmentedMP4",
+                  "videoFrameRate" : 58.997503360860378,
+                  "startTime" : 358.01601562500002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "segmentDateStamp" : "2024-01-04T13:52:46.153+01:00",
+              "processed" : false,
+              "segmentDurationTag" : 0,
+              "mediaSequence" : 179,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 4187898.8877654197,
+            "measuredMeanBitrate" : 4174725.8759602774,
+            "measuredSegments" : 4
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 0.016051078409746775,
+              "trackId" : 1,
+              "trackVideoWidth" : 1920,
+              "trackVideoLevel" : 42,
+              "trackVideoTransferFunction" : "ITU_R_709_2",
+              "trackVideoHeight" : 1080,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 1.9943250868055555,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 100,
+              "trackMediaSubType" : "avc3"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 44100,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistTargetDuration" : 3,
+      "playlistResolutionWidth" : 1920,
+      "gzipEncoded" : false,
+      "dataID" : 1
+    },
+    {
+      "maxFrameRate" : 60,
+      "videoRangeKey" : "Unknown",
+      "mimeType" : "application\/vnd.apple.mpegurl",
+      "processedSegmentsCount" : 13,
+      "url" : "https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8?dc=euw1",
+      "hasDiscSequenceTag" : true,
+      "meanSegmentCount" : 3,
+      "playlistSupportBlockingReload" : true,
+      "measuredMeanBitrate" : 1974503.5288239336,
+      "messages" : [
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "PART-HOLD-BACK SHOULD be at least three times the Part Target Duration",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50102,
+          "errorRequirementLevel" : 2,
+          "errorDetail" : "Part hold back: 2.400000, Part target: 1.101000"
+        }
+      ],
+      "parsedSegmentsCount" : 5,
+      "playlistPartTargetDuration" : 1.101,
+      "fetchCount" : 3,
+      "hasEndTag" : false,
+      "playlistPartHoldBackDuration" : 2.3999999999999999,
+      "playlistCodecs" : "avc3.64002a,mp4a.40.2",
+      "playlistResolutionHeight" : 720,
+      "meanTotalDuration" : 5.9962222223333335,
+      "measuredMaxBitrate" : 2958385.4670451502,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupIndex" : 1,
+        "playlistGroupID" : "AUDIO",
+        "renditions" : [
+          {
+            "persistentID" : 1
+          }
+        ]
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupIndex" : 2,
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 3479680,
+      "sslContentDeliveredSecurely" : true,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "mediaSequence" : 175,
+              "segmentDurationTag" : 1.990166667,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 41,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24Yrw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.016393442622956,
+                  "startTime" : 350.01666666666665,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.991166667,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 42,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24Yrw==.m4s?dc=euw1&b=80974",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.001920635437351,
+                  "startTime" : 351.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 39,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24Yrw==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:38.675+01:00",
+              "videoFrameRate" : 59.009216961792383,
+              "startTime" : 350.01666666666665,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 176,
+              "segmentDurationTag" : 2.0183333330000002,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 44,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24YsA==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.016393442622956,
+                  "startTime" : 352,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 1.0193333330000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 45,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24YsA==.m4s?dc=euw1&b=509738",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.03411775824592,
+                  "startTime" : 352.98336588541667,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 43,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24YsA==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:40.655+01:00",
+              "videoFrameRate" : 59.025327510917037,
+              "startTime" : 352,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 177,
+              "segmentDurationTag" : 1.978166667,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 47,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24YsQ==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.016393442622956,
+                  "startTime" : 354.01666666666665,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.97916666699999999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 48,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24YsQ==.m4s?dc=euw1&b=397659",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.001920635437351,
+                  "startTime" : 355.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 46,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24YsQ==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:42.679+01:00",
+              "videoFrameRate" : 59.009216961792383,
+              "startTime" : 354.01666666666665,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 178,
+              "segmentDurationTag" : 2.0188333329999999,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 62,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24Ysg==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.016393442622956,
+                  "startTime" : 356,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 1.0193333330000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 92,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24Ysg==.m4s?dc=euw1&b=194216",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.03411775824592,
+                  "startTime" : 356.98336588541667,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 61,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24Ysg==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:44.659+01:00",
+              "videoFrameRate" : 59.025327510917037,
+              "startTime" : 356,
+              "discontinuityDomain" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "dataID" : 93,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 179,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 94,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MGNtc24Ysw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 59.016393442622956,
+                  "startTime" : 358.01666666666665,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "segmentDateStamp" : "2024-01-04T13:52:46.678+01:00",
+              "processed" : false,
+              "segmentDurationTag" : 0,
+              "mediaSequence" : 179,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 2958385.4670451502,
+            "measuredMeanBitrate" : 1974503.5288239336,
+            "measuredSegments" : 4
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 0.015713484026367668,
+              "trackId" : 1,
+              "trackVideoWidth" : 1280,
+              "trackVideoLevel" : 42,
+              "trackVideoHeight" : 720,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 1.9944444444444445,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 100,
+              "trackMediaSubType" : "avc3"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 44100,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistTargetDuration" : 3,
+      "playlistResolutionWidth" : 1280,
+      "gzipEncoded" : false,
+      "dataID" : 2
+    },
+    {
+      "maxFrameRate" : 30,
+      "videoRangeKey" : "Unknown",
+      "mimeType" : "application\/vnd.apple.mpegurl",
+      "processedSegmentsCount" : 13,
+      "url" : "https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8?dc=euw1",
+      "hasDiscSequenceTag" : true,
+      "meanSegmentCount" : 3,
+      "playlistSupportBlockingReload" : true,
+      "measuredMeanBitrate" : 1114335.8943512177,
+      "messages" : [
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "PART-HOLD-BACK SHOULD be at least three times the Part Target Duration",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50102,
+          "errorRequirementLevel" : 2,
+          "errorDetail" : "Part hold back: 2.400000, Part target: 1.101000"
+        }
+      ],
+      "parsedSegmentsCount" : 5,
+      "playlistPartTargetDuration" : 1.101,
+      "fetchCount" : 3,
+      "hasEndTag" : false,
+      "playlistPartHoldBackDuration" : 2.3999999999999999,
+      "playlistCodecs" : "avc3.64002a,mp4a.40.2",
+      "playlistResolutionHeight" : 480,
+      "meanTotalDuration" : 5.9897777763333329,
+      "measuredMaxBitrate" : 1508303.4668110867,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupIndex" : 1,
+        "playlistGroupID" : "AUDIO",
+        "renditions" : [
+          {
+            "persistentID" : 1
+          }
+        ]
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupIndex" : 2,
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 1560406,
+      "sslContentDeliveredSecurely" : true,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "mediaSequence" : 175,
+              "segmentDurationTag" : 1.969833333,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 52,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24Yrw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 350.03333333333336,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.97083333299999997,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 53,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24Yrw==.m4s?dc=euw1&b=127379",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.000944041147172,
+                  "startTime" : 351.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 50,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24Yrw==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:38.747+01:00",
+              "videoFrameRate" : 29.016857979924115,
+              "startTime" : 350.03333333333336,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 176,
+              "segmentDurationTag" : 2.0386666660000001,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 55,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24YsA==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 352,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 1.0391666660000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 56,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24YsA==.m4s?dc=euw1&b=316361",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.063386944181644,
+                  "startTime" : 352.96669921875002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 54,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24YsA==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:40.698+01:00",
+              "videoFrameRate" : 29.048069321511058,
+              "startTime" : 352,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 177,
+              "segmentDurationTag" : 1.9583333329999999,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 58,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24YsQ==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 354.03333333333336,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.95933333300000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 59,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24YsQ==.m4s?dc=euw1&b=104770",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.000944041147172,
+                  "startTime" : 355.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 57,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24YsQ==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:42.727+01:00",
+              "videoFrameRate" : 29.016857979924115,
+              "startTime" : 354.03333333333336,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 178,
+              "segmentDurationTag" : 2.0386666660000001,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 72,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24Ysg==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 356,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 1.0391666660000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 84,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24Ysg==.m4s?dc=euw1&b=118629",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.063386944181644,
+                  "startTime" : 356.96669921875002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 71,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24Ysg==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:44.711+01:00",
+              "videoFrameRate" : 29.048069321511058,
+              "startTime" : 356,
+              "discontinuityDomain" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "dataID" : 85,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 179,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 86,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMGNtc24Ysw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 358.03333333333336,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "segmentDateStamp" : "2024-01-04T13:52:46.739+01:00",
+              "processed" : false,
+              "segmentDurationTag" : 0,
+              "mediaSequence" : 179,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 1508303.4668110867,
+            "measuredMeanBitrate" : 1114335.8943512177,
+            "measuredSegments" : 4
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 0.031426968052735441,
+              "trackId" : 1,
+              "trackVideoWidth" : 852,
+              "trackVideoLevel" : 42,
+              "trackVideoHeight" : 480,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 1.9888888888888889,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 100,
+              "trackMediaSubType" : "avc3"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 44100,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistTargetDuration" : 3,
+      "playlistResolutionWidth" : 852,
+      "gzipEncoded" : false,
+      "dataID" : 3
+    },
+    {
+      "maxFrameRate" : 30,
+      "videoRangeKey" : "Unknown",
+      "mimeType" : "application\/vnd.apple.mpegurl",
+      "processedSegmentsCount" : 13,
+      "url" : "https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMA==.m3u8?dc=euw1",
+      "hasDiscSequenceTag" : true,
+      "meanSegmentCount" : 3,
+      "playlistSupportBlockingReload" : true,
+      "measuredMeanBitrate" : 557863.46900452534,
+      "messages" : [
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Missing rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50098,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Expected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8?dc=euw1"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjQ4MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjcyMHA2MA==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZnNvdXJjZQ==.m3u8"
+        },
+        {
+          "errorComment" : "Unknown rendition report",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50099,
+          "errorRequirementLevel" : 1,
+          "errorDetail" : "Unexpected report for https:\/\/d1sedebpds5xep.cloudfront.net\/v1\/live\/o2JpZHgkZTAxY2JjZWYtM2VlMC00NTY5LThmMDQtMDUwMmEwNjI0OWQ3ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjE2MHAzMA==.m3u8"
+        },
+        {
+          "errorComment" : "PART-HOLD-BACK SHOULD be at least three times the Part Target Duration",
+          "errorDomain" : "ValidatorErrorDomain",
+          "errorRepetitions" : 3,
+          "errorStatusCode" : -50102,
+          "errorRequirementLevel" : 2,
+          "errorDetail" : "Part hold back: 2.400000, Part target: 1.101000"
+        }
+      ],
+      "parsedSegmentsCount" : 5,
+      "playlistPartTargetDuration" : 1.101,
+      "fetchCount" : 3,
+      "hasEndTag" : false,
+      "playlistPartHoldBackDuration" : 2.3999999999999999,
+      "playlistCodecs" : "avc3.64002a,mp4a.40.2",
+      "playlistResolutionHeight" : 360,
+      "meanTotalDuration" : 5.9897777763333329,
+      "measuredMaxBitrate" : 679471.55025489582,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupIndex" : 1,
+        "playlistGroupID" : "AUDIO",
+        "renditions" : [
+          {
+            "persistentID" : 1
+          }
+        ]
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupIndex" : 2,
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 741320,
+      "sslContentDeliveredSecurely" : true,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "mediaSequence" : 175,
+              "segmentDurationTag" : 1.969833333,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 30,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24Yrw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 350.03333333333336,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 175,
+                  "segmentDurationTag" : 0.97083333299999997,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 31,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24Yrw==.m4s?dc=euw1&b=74435",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.000944041147172,
+                  "startTime" : 351.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 28,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24Yrw==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:38.743+01:00",
+              "videoFrameRate" : 29.016857979924115,
+              "startTime" : 350.03333333333336,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 176,
+              "segmentDurationTag" : 2.0386666660000001,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 33,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24YsA==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 352,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 176,
+                  "segmentDurationTag" : 1.0391666660000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 34,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24YsA==.m4s?dc=euw1&b=125793",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.063386944181644,
+                  "startTime" : 352.96669921875002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 32,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24YsA==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:40.696+01:00",
+              "videoFrameRate" : 29.048069321511058,
+              "startTime" : 352,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 177,
+              "segmentDurationTag" : 1.9583333329999999,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 36,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24YsQ==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 354.03333333333336,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 177,
+                  "segmentDurationTag" : 0.95933333300000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 37,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24YsQ==.m4s?dc=euw1&b=74289",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.000944041147172,
+                  "startTime" : 355.00003255208333,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 35,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24YsQ==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:42.725+01:00",
+              "videoFrameRate" : 29.016857979924115,
+              "startTime" : 354.03333333333336,
+              "discontinuityDomain" : 0
+            },
+            {
+              "mediaSequence" : 178,
+              "segmentDurationTag" : 2.0386666660000001,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 0.99950000000000006,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 65,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24Ysg==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 356,
+                  "discontinuityDomain" : 0
+                },
+                {
+                  "mediaSequence" : 178,
+                  "segmentDurationTag" : 1.0391666660000001,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 88,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24Ysg==.m4s?dc=euw1&b=67134",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : false,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.063386944181644,
+                  "startTime" : 356.96669921875002,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "mimeType" : "video\/iso.segment",
+              "dataID" : 64,
+              "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24Ysg==.m4s?dc=euw1",
+              "segmentByteRangeLength" : 0,
+              "videoStartsWithIDR" : true,
+              "sslContentDeliveredSecurely" : true,
+              "segmentByteRangeOffset" : 0,
+              "format" : "fragmentedMP4",
+              "audioStartsWithIPF" : true,
+              "segmentDateStamp" : "2024-01-04T13:52:44.713+01:00",
+              "videoFrameRate" : 29.048069321511058,
+              "startTime" : 356,
+              "discontinuityDomain" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "dataID" : 89,
+              "partialSegments" : [
+                {
+                  "mediaSequence" : 179,
+                  "segmentDurationTag" : 0.999,
+                  "mimeType" : "video\/iso.segment",
+                  "dataID" : 90,
+                  "url" : "pWJpZHgkOGQ3NDRkM2QtZjViNi00Yjk5LTllN2UtMDk0N2MyOTU5YjA1Y3RhZxpllqi2ZnJlZ2lvbmlldS13ZXN0LTFpcmVuZGl0aW9uZjM2MHAzMGNtc24Ysw==.m4s?dc=euw1&b=0",
+                  "segmentByteRangeLength" : 0,
+                  "videoStartsWithIDR" : true,
+                  "sslContentDeliveredSecurely" : true,
+                  "segmentByteRangeOffset" : 0,
+                  "format" : "fragmentedMP4",
+                  "audioStartsWithIPF" : true,
+                  "videoFrameRate" : 29.032258064516125,
+                  "startTime" : 358.03333333333336,
+                  "discontinuityDomain" : 0
+                }
+              ],
+              "segmentDateStamp" : "2024-01-04T13:52:46.741+01:00",
+              "processed" : false,
+              "segmentDurationTag" : 0,
+              "mediaSequence" : 179,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 679471.55025489582,
+            "measuredMeanBitrate" : 557863.46900452534,
+            "measuredSegments" : 4
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 0.031426968052735441,
+              "trackId" : 1,
+              "trackVideoWidth" : 640,
+              "trackVideoLevel" : 42,
+              "trackVideoHeight" : 360,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 1.9888888888888889,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 100,
+              "trackMediaSubType" : "avc3"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 44100,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistTargetDuration" : 3,
+      "playlistResolutionWidth" : 640,
+      "gzipEncoded" : false,
+      "dataID" : 4
+    }
+  ],
+  "dataVersion" : 1.1000000000000001
+}

@@ -17,6 +17,7 @@ require("lazy").setup({
     -- { import = "lazyvim.plugins.extras.lang.json" },
     -- { import = "lazyvim.plugins.extras.ui.mini-animate" },
     -- import/override with your plugins
+    { import = "lazyvim.plugins.extras.editor.aerial" },
     { import = "plugins" },
   },
   defaults = {
@@ -46,3 +47,6 @@ require("lazy").setup({
     },
   },
 })
+
+-- this is a hack since I don't know where I should put what shoould get used
+-- require("config.lexical")
