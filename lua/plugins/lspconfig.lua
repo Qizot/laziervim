@@ -94,5 +94,11 @@ return {
         require("lspconfig").clangd.setup(opts)
       end,
     },
+    opts = {
+      autoformat = false,
+    },
+  },
+  keys = {
+    { "<leader>r", "<cmd> LspRestart <CR>", desc = "restart LSP server" },
   },
 }

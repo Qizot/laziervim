@@ -6,10 +6,10 @@ return {
     end,
     keys = {
       { "<leader/sr", false },
-      { "<leader>sp", "<cmd> lua require('spectre').toggle()<CR>", desc = "Toggle spectre" },
+      { "<leader>sp", false },
       {
         "<leader>sw",
-        "<cmd> lua require('spectre').open_visual({select_word=true})<CR>",
+        "<cmd> lua require('grug-far').grug_far({ prefills = { search = vim.fn.expand('<cword>') } })<CR>",
         desc = "Search current word",
       },
     },

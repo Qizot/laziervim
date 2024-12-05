@@ -20,7 +20,7 @@ return {
       { "<leader>fh", "<cmd> Telescope help_tags <CR>", desc = "  help page" },
       { "<leader>fo", "<cmd> Telescope oldfiles <CR>", desc = "   find oldfiles" },
       { "<leader>tk", "<cmd> Telescope keymaps <CR>", desc = "   show keys" },
-      { "<leader>tp", "<cmd> Telescope project <CR>", desc = "   show projects" },
+      -- { "<leader>tp", "<cmd> Telescope project <CR>", desc = "   show projects" },
       { "<leader>tr", "<cmd> Telescope resume <CR>", desc = "   resume" },
       { "<leader>to", "<cmd> Telescope marks <CR>", desc = "   show marks" },
       { "<leader>ds", "<cmd> Telescope lsp_document_symbols <CR>", desc = "   document symbols" },
@@ -31,11 +31,9 @@ return {
       { "<leader>br", "<cmd> Telescope git_branches <CR>", desc = "  git branches" },
 
       -- theme switcher
-      { "<leader>th", "<cmd> Telescope themes <CR>", desc = "   nvchad themes" },
-      { "<leader>tb", "<cmd> Telescope builtin <CR>", desc = "   nvchad theme picker" },
 
       -- treesitter
-      { "<leader>ts", "<cmd> Telescope treesitter<CR>", desc = " treesitter" },
+      -- { "<leader>ts", "<cmd> Telescope treesitter<CR>", desc = " treesitter" },
     },
     opts = {
       defaults = {

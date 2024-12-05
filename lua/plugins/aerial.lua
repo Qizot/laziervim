@@ -20,9 +20,11 @@ return {
       attach_mode = "global",
       backends = { "lsp", "treesitter", "markdown", "man" },
       show_guides = true,
+      disable_max_lines = 100000,
       layout = {
         resize_to_content = false,
         min_width = 20,
+        max_width = 0.4,
         win_opts = {
           winhl = "Normal:NormalFloat,FloatBorder:NormalFloat,SignColumn:SignColumnSB",
           signcolumn = "yes",
