@@ -14,10 +14,8 @@ return {
       })
     end,
     keys = {
-      { "<leader>do", "<cmd> DiffviewOpen <CR>", desc = "open files diff browser" },
-      { "<leader>dc", "<cmd> DiffviewClose <CR>", desc = "close files diff browser" },
-      { "<leader>dh", "<cmd> DiffviewFileHistory <CR>", desc = "open file history" },
-      { "<leader>dH", "<cmd> DiffviewFileHistory % <CR>", desc = "open file history" },
+      { "<leader>vo", "<cmd> DiffviewOpen <CR>", desc = "open files diff browser" },
+      { "<leader>vc", "<cmd> DiffviewClose <CR>", desc = "close files diff browser" },
     },
   },
 }

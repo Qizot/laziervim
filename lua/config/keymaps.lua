@@ -15,7 +15,8 @@ local function map(mode, lhs, rhs, opts)
   end
 end
 
-map("n", "<leader>fm", "<cmd>lua vim.lsp.buf.format { async = true }<cr>", { desc = "Format code" })
+map("n", "<leader>fn", "<cmd>lua vim.lsp.buf.format { async = true }<cr>", { desc = "Format code" })
+map("n", "<leader>n", "<cmd> NvimTreeToggle<CR>", { desc = "Toggle nvim tree" })
 map(
   "n",
   "<leader>F",
